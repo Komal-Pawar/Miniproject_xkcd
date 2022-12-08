@@ -3,6 +3,8 @@ CLI tool to fetch data from "https://xkcd.com/"
 
 python task_one.py --max 87  --any 15
 """
+"""Hi Komal"""
+
 
 import argparse
 from random import randrange
